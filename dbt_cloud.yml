@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "ry757.us1.dbt.com"
+  active-project: "70403103943807"
+projects:
+  - project-name: "Airbnb"
+    project-id: "70403103943807"
+    account-name: "Cognizant"
+    account-id: "70403103937467"
+    account-host: "ry757.us1.dbt.com"
+    token-name: "cloud-cli-6137"
+    token-value: "dbtu_s_f9QKceo61IvVTwguyKrMSaEF_E7ZJ7TxVsjNnkAml1MOhgl4"
+
+
